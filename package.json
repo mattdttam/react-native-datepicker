@@ -1,6 +1,6 @@
 {
-  "name": "react-native-datepicker",
-  "version": "1.7.2",
+  "name": "react-native-datepicker-matt",
+  "version": "1.0.0",
   "description": "React Native DatePicker component for both Android and iOS, useing DatePickerAndroid, TimePickerAndroid and DatePickerIOS",
   "main": "datepicker.js",
   "scripts": {
@@ -12,18 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xgfe/react-native-datepicker.git"
+    "url": "git@github.com/mattdttam/react-native-datepicker.git"
   },
   "keywords": [
     "react-native",
     "DatePicker"
   ],
-  "author": "xgfe",
+  "author": "xgfe,matt",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xgfe/react-native-datepicker/issues"
-  },
-  "homepage": "https://github.com/xgfe/react-native-datepicker#readme",
   "dependencies": {
     "moment": "^2.22.0"
   },
@@ -43,9 +39,9 @@
     "jsdom": "^11.3.0",
     "jsdom-global": "^3.0.2",
     "pre-commit": "^1.1.3",
-    "react": "16.0.0-beta.5",
+    "react": "16.9.0",
     "react-dom": "16.0.0-beta.5",
-    "react-native": "0.49.3",
+    "react-native": "0.61.4",
     "react-test-renderer": "16.0.0-beta.5"
   },
   "config": {
